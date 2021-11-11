@@ -1,0 +1,8 @@
+{
+  "algorithms": [
+    {
+      "name": "QuickSort",
+      "algorithm": "plugins.QuickSortAlgorithm"
+    }
+  ]
+}
